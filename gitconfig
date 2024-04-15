@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = u.agha@outlook.com
+	name = Uzoma Agha
